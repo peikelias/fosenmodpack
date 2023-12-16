@@ -12,6 +12,8 @@
 	- 3 decor (Skiltet i skipet teller dager uten dødsfall)
 	- 1 map hazard (Teleporter trap)
 	- 1 game mechanic
+	
+- Opprettet git-repo
 
 ### v1.0.4
 - Oppdatert alle mods
